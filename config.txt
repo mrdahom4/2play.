@@ -1,6 +1,6 @@
-﻿token= NTI1NzU1MjcxNzgwNDk5NDU2.Dv7Yog.JlU67seue32SkrvnzdDJ90cih8I
+﻿token=NTI1NzU1MjcxNzgwNDk5NDU2.Dv7Yog.JlU67seue32SkrvnzdDJ90cih8I
 owner=500104249275973632
-prefix= 2
+prefix=2
 game= 2play
 stayinchannel=true
 songinstatus=true 
